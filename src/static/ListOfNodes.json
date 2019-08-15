@@ -1,0 +1,12 @@
+[
+"BiQuadFilter",
+"Convolver",
+"Delay",
+"DynamicsCompressor",
+"Gain",
+"MediaElementAudioSource",
+"MediaStreamAudioSource",
+"StereoPanner",
+"WaveShaper",
+"Analyser"	
+]
